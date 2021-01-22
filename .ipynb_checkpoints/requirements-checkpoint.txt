@@ -1,9 +1,0 @@
-pymc3
-pgmpy
-pandas
-scipy
-tensorflow
-theano
-numpy
-seaborn
-matplotlib
